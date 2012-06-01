@@ -11,6 +11,17 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   alloc
+   assert
+   dictionary
+   patricia
+   hash
+   hook
+   list
+   module
+   random
+   signal
+
 
 
 Indices and tables
